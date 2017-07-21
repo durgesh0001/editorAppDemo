@@ -1,0 +1,11 @@
+{
+  "name": "Editor App",
+  "short_name": "Editor App",
+  "start_url": "editor/index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
